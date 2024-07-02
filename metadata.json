@@ -1,0 +1,8 @@
+{
+    "name": "CustomCompass",
+    "version": "0.0.1",
+    "description": "Custom Compass for minecraft",
+    "author": "sharo_jef",
+    "entry": "index.js",
+    "requires": ["SettingsManager"]
+}
